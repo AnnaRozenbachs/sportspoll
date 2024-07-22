@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sportspoll/static/css/main.0acafd37.css",
+    "main.js": "/sportspoll/static/js/main.9a4ae3be.js",
+    "static/js/453.0a5915c3.chunk.js": "/sportspoll/static/js/453.0a5915c3.chunk.js",
+    "index.html": "/sportspoll/index.html",
+    "main.0acafd37.css.map": "/sportspoll/static/css/main.0acafd37.css.map",
+    "main.9a4ae3be.js.map": "/sportspoll/static/js/main.9a4ae3be.js.map",
+    "453.0a5915c3.chunk.js.map": "/sportspoll/static/js/453.0a5915c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0acafd37.css",
+    "static/js/main.9a4ae3be.js"
+  ]
+}
