@@ -1,7 +1,3 @@
-.App {
-  text-align: center;
-}
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -12,20 +8,44 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
   color: white;
+  overflow: auto;
 }
-
 .App-link {
   color: #61dafb;
+}
+.cat_FOOTBALL{
+  color: red;
+}
+.cat_HANDBALL{
+  color: bisque;
+}
+.cat_SNOOKER{
+  color: cadetblue;
+}
+.cat_TENNIS{
+  color:beige
+}
+.cat_ICE_HOCKEY{
+  color: #61dafb;
+}
+.state_STARTED{
+  color: darkkhaki !important;
+  font-weight: bold;
+}
+.state_FINISHED{
+  color: green !important;
+  font-weight: bold;
+}
+.state_NOT_STARTED{
+  color: red !important;
+  font-weight: bold;
 }
 
 @keyframes App-logo-spin {
@@ -36,3 +56,4 @@
     transform: rotate(360deg);
   }
 }
+
